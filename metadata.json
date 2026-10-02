@@ -1,0 +1,6 @@
+{
+  "name": "Tết Sum Vầy – Hành Trình Gói Bánh",
+  "description": "Game phiêu lưu và giáo dục 2D khám phá Tết cổ truyền Việt Nam, làm nhiệm vụ, giải đố, gói bánh chưng và trang trí nhà ngày Tết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
